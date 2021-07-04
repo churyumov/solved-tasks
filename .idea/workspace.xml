@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8abf25cd-8d04-4ece-8572-117c720af506" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="add-contact" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProjectId" id="1urNAJZs7XgWSLr7a4iLzhAQlID" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.13.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.60" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="$USER_HOME$/.nvm/versions/node/v10.13.0/lib/node_modules/npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8abf25cd-8d04-4ece-8572-117c720af506" name="Default Changelist" comment="" />
+      <created>1625419602492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625419602492</updated>
+      <workItem from="1625419604383" duration="3916000" />
+    </task>
+    <task id="LOCAL-00001" summary="added commit">
+      <created>1625420080503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625420080503</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First task">
+      <created>1625421183153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625421183153</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update task">
+      <created>1625422024488</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625422024488</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added intro file">
+      <created>1625422854668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625422854668</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update intro">
+      <created>1625423035432</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625423035432</updated>
+    </task>
+    <task id="LOCAL-00006" summary="4 intro">
+      <created>1625426291918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625426291918</updated>
+    </task>
+    <task id="LOCAL-00007" summary="like 4 intro">
+      <created>1625426324308</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625426324308</updated>
+    </task>
+    <task id="LOCAL-00008" summary="5 item">
+      <created>1625426427321</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1625426427321</updated>
+    </task>
+    <task id="LOCAL-00009" summary="5 item">
+      <created>1625426462059</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1625426462059</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add contact file">
+      <created>1625427411284</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1625427411284</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added content to contact">
+      <created>1625428036504</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1625428036504</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added commit" />
+    <MESSAGE value="First task" />
+    <MESSAGE value="Update task" />
+    <MESSAGE value="Added intro file" />
+    <MESSAGE value="Update intro" />
+    <MESSAGE value="4 intro" />
+    <MESSAGE value="like 4 intro" />
+    <MESSAGE value="5 item" />
+    <MESSAGE value="add contact file" />
+    <MESSAGE value="added content to contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="added content to contact" />
+  </component>
+</project>
